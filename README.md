@@ -36,3 +36,5 @@ a. https://github.com/fuhrysteve/php-docker-apache-example
 3. Run the application using docker
 Now try to run the following repo by writing your own Dockerfile
 https://github.com/banago/simple-php-website
+
+## Work process added in readme files of each projects
